@@ -1,0 +1,70 @@
+[
+    {
+        "apiKey": "AIzaSyDAevrT5wmuxqptMnlTghUnvpZPV0pfTa4",
+        "authDomain": "esp-32-semana-i-523bd.firebaseapp.com",
+        "databaseURL": "https://esp-32-semana-i-523bd-default-rtdb.firebaseio.com",
+        "projectId": "esp-32-semana-i-523bd",
+        "storageBucket": "esp-32-semana-i-523bd.appspot.com",
+        "messagingSenderId": "506603944398",
+        "appId": "1:506603944398:web:06afeee9cf250b65fa539f"
+    },
+
+    {
+        "apiKey": "AIzaSyBkorM1Kj7JO5BviRDmWgC5E6QpUjxZvBw",
+        "authDomain": "esp-32-5e567.firebaseapp.com",
+        "databaseURL": "https://esp-32-5e567-default-rtdb.firebaseio.com",
+        "projectId": "esp-32-5e567",
+        "storageBucket": "esp-32-5e567.appspot.com",
+        "messagingSenderId": "25634871719",
+        "appId": "1:25634871719:web:eccc86a0404d4410bcfe82",
+        "measurementId": "G-FC1K33JSZX"
+    },
+
+    {
+        "apiKey": "AIzaSyDEcTnQHxm1X7LbhUYpbC8NKzY_Y4HuLc0",
+        "authDomain": "semana-i-esp32-a01732165.firebaseapp.com",
+        "databaseURL": "https://semana-i-esp32-a01732165-default-rtdb.firebaseio.com",
+        "projectId": "semana-i-esp32-a01732165",
+        "storageBucket": "semana-i-esp32-a01732165.appspot.com",
+        "messagingSenderId": "119186266925",
+        "appId": "1:119186266925:web:82137a2fc4f071f80691a4"
+    },
+
+    {
+        "apiKey": "AIzaSyD2hVFHxx6T6M-T9RpgrLSqJFySTg6D7gA",
+        "authDomain": "esp32-alonso.firebaseapp.com",
+        "databaseURL": "https://esp32-alonso-default-rtdb.firebaseio.com",
+        "projectId": "esp32-alonso",
+        "storageBucket": "esp32-alonso.appspot.com",
+        "messagingSenderId": "950513851689",
+        "appId": "1:950513851689:web:fa4cb47824acba2c3ceb38"
+    },
+    {
+        "apiKey": "AIzaSyAOyrlBHH-MIv4cSfJ4Q-0P5eBujsojRKY",
+        "authDomain": "semana-i-7c2e6.firebaseapp.com",
+        "databaseURL": "https://semana-i-7c2e6-default-rtdb.firebaseio.com",
+        "projectId": "semana-i-7c2e6",
+        "storageBucket": "semana-i-7c2e6.appspot.com",
+        "messagingSenderId": "935089298155",
+        "appId": "1:935089298155:web:fb68831bfff0c261de3cae"
+    },
+    {
+        "apiKey": "AIzaSyCJp3wOiDbR_zhVGDhq88HtoQ6bXp8NqQg",
+        "authDomain": "semana-i-esp32.firebaseapp.com",
+        "databaseURL": "https://semana-i-esp32-default-rtdb.firebaseio.com",
+        "projectId": "semana-i-esp32",
+        "storageBucket": "semana-i-esp32.appspot.com",
+        "messagingSenderId": "601338901220",
+        "appId": "1:601338901220:web:db9d0e28282465b3ff32f1"
+    },
+    {
+        "apiKey": "AIzaSyC7RSVPwD1ZYsX_qQDUxWC_kGHofArUtWA",
+        "authDomain": "semana-i-esp32-dafne.firebaseapp.com",
+        "databaseURL": "https://semana-i-esp32-dafne-default-rtdb.firebaseio.com",
+        "projectId": "semana-i-esp32-dafne",
+        "storageBucket": "semana-i-esp32-dafne.appspot.com",
+        "messagingSenderId": "270923728104",
+        "appId": "1:270923728104:web:8525a5e22d28e1f7a7355d"
+    }
+
+]
